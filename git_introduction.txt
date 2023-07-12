@@ -36,3 +36,7 @@ git add git_introduction.txt
 git status 
 git commit 
 git status 
+
+
+##3  What's the difference of tracked and untracked file?  Tracked file status: modified, staged or committed:x
+
