@@ -29,3 +29,10 @@ drwxr-xr-x 1 super super 512 Jul 12 16:08 objects
 drwxr-xr-x 1 super super 512 Jul 12 16:08 .
 
 ##The git directory contains all the changes and their history and the working tree contains the current versions of the files
+
+##  Staging area (index) -- A file maintained by Git that contains all of the information about what files and changes are going to go into your next commit
+##2  add a file to git working tree  
+git add git_introduction.txt
+git status 
+git commit 
+git status 
