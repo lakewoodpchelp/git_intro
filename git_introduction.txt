@@ -38,5 +38,5 @@ git commit
 git status 
 
 
-##3  What's the difference of tracked and untracked file?  Tracked file status: modified, staged or committed:x
-
+##3  What's the difference of tracked and untracked file?  Tracked file status: modified, staged or committed:
+##4  Git enforces commit messages. Empty commit message will make the commit to be aborted. 
