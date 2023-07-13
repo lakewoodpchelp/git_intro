@@ -1,4 +1,4 @@
-
+## This example is bash environment under Windows 10 pro. 
 
 ##1  How to create a clean/empty local git repository?  
 super@DESKTOP-DLLM5NQ:~/python$ mkdir git_intro
@@ -40,3 +40,4 @@ git status
 
 ##3  What's the difference of tracked and untracked file?  Tracked file status: modified, staged or committed:
 ##4  Git enforces commit messages. Empty commit message will make the commit to be aborted. 
+##5  Commit message should be a short description of the change (up to 50 characters), followed by one or more paragrphs giving more details of the change. Each line is kept under 72 characters in length  
