@@ -41,3 +41,10 @@ git status
 ##3  What's the difference of tracked and untracked file?  Tracked file status: modified, staged or committed:
 ##4  Git enforces commit messages. Empty commit message will make the commit to be aborted. 
 ##5  Commit message should be a short description of the change (up to 50 characters), followed by one or more paragrphs giving more details of the change. Each line is kept under 72 characters in length  
+##6  Head is the alias to the currently checked up snapshot of your project.  All commands run based on HEAD. 
+##7  git log has many more option to see patch, specific commit, et al
+# 	git log -p 
+# 	git log -p -n 1 
+
+##8  git diff  
+#	git diff --staged  
