@@ -48,4 +48,6 @@ git status
 
 ##8  git diff  
 #	git diff --staged  
-
+ 
+## view difference between staged with --cached or --staged 
+git diff --staged 
