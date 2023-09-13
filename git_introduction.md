@@ -9,11 +9,6 @@ drwxr-xr-x 1 super super 512 Jul 12 16:07 ..
 drwxr-xr-x 1 super super 512 Jul 12 16:07 .
 super@DESKTOP-DLLM5NQ:~/python/git_intro$ git init
 Initialized empty Git repository in /home/super/python/git_intro/.git/
-super@DESKTOP-DLLM5NQ:~/python/git_intro$ ls -atlr
-total 0
-drwxr-xr-x 1 super super 512 Jul 12 16:07 ..
-drwxr-xr-x 1 super super 512 Jul 12 16:08 .
-drwxr-xr-x 1 super super 512 Jul 12 16:08 .git
 
 super@DESKTOP-DLLM5NQ:~/python/git_intro$ ls -altr .git
 total 0
